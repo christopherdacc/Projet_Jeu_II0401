@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1681310728 source:c:\users\dacc0001\desktop\jeu\jeu_esc\fonctions.c
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+
+1681310744 source:c:\users\dacc0001\desktop\jeu\jeu_esc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<math.h>
+	<time.h>
+
+1681310734 c:\users\dacc0001\desktop\jeu\jeu_esc\fonctions.h
+
+1681307420 source:c:\users\user\desktop\eisine cours\semestre 4\projet_jeu_chris\a presenter\jeu\jeu_esc\fonctions.c
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+
